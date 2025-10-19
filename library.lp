@@ -1,0 +1,11 @@
+(librepcb_library 07d03f54-7175-4ee4-b730-4a9b503f4f36
+ (name "Sigl4SLibrary")
+ (description "")
+ (keywords "")
+ (author "Sigl4S")
+ (version "0.1")
+ (created 2025-08-17T07:07:51Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)

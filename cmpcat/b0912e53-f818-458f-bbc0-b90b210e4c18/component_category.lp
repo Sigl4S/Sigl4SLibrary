@@ -1,0 +1,10 @@
+(librepcb_component_category b0912e53-f818-458f-bbc0-b90b210e4c18
+ (name "JST XH")
+ (description "XH Series Connector from JST\nBoard to wire Connector\nInternal\navailable in 1 to 20 pins")
+ (keywords "")
+ (author "Lucas Schlaich")
+ (version "0.1")
+ (created 2025-10-19T13:56:17Z)
+ (deprecated false)
+ (parent d0618c29-0436-42da-a388-fdadf7b23892)
+)
