@@ -15,7 +15,7 @@
  (pad f7619619-ab16-41b7-ae81-4b7dfe69ebb4 (name "4"))
  (3d_model da3fab50-01a4-4b47-bda2-b3aed2f4f046 (name "Pin Header 2.54mm 1x03 ⌀0.9mm"))
  (footprint 5d5afbac-5905-403f-a275-c958417757e1
-  (name "B2B-XH-A (not embossed)")
+  (name "B4B-XH-A (not embossed)")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (3d_model da3fab50-01a4-4b47-bda2-b3aed2f4f046)
@@ -99,7 +99,7 @@
   )
  )
  (footprint 31f30633-c329-4604-8a7a-d5c8bdf602a3
-  (name "B2B-XH-AM (embossed)")
+  (name "B4B-XH-AM (embossed)")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (3d_model da3fab50-01a4-4b47-bda2-b3aed2f4f046)
